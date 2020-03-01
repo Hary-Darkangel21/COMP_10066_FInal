@@ -90,7 +90,7 @@ namespace COMP10066_Lab4
         // Simple set of tests that confirm that functions operate correctly
         static void Main(string[] args)
         {
-            List<Double> testDataD = new List<Double> { 2.2, 3.3, 66.2, 17.5, 30.2, 31.1 };
+            List<Double> testDataD = new List<Double> { 2.2, 3.3, 66.2, 17.5, 30.2, 31.1, 32 };
 
             Console.WriteLine("The sum of the array = {0}", Sum(testDataD, true));
 
